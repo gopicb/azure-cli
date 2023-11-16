@@ -1,3 +1,5 @@
 az group create --name demoResourceGroup --location westus  --> create new resource group
 
+az group delete --name " exampleGroup"  --> delete resource group
+
 
